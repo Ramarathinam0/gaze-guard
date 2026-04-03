@@ -1,0 +1,11 @@
+README.md
+setup.py
+gaze_guard/__init__.py
+gaze_guard/attention.py
+gaze_guard/camera.py
+gaze_guard/detector.py
+gaze_guard.egg-info/PKG-INFO
+gaze_guard.egg-info/SOURCES.txt
+gaze_guard.egg-info/dependency_links.txt
+gaze_guard.egg-info/requires.txt
+gaze_guard.egg-info/top_level.txt
